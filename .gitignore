@@ -161,3 +161,4 @@ cython_debug/
 
 # Adding config.py file.
 api_keys.py
+weather_api_key = "078d46ef4d7ba65d66eadb9ece30f664"
